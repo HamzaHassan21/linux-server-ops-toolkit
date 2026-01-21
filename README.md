@@ -4,7 +4,7 @@ A hands-on Linux project built on an AWS EC2 instance to demonstrate practical s
 
 This project focuses on operating a Linux server using the command line and Bash scripting rather than GUI-based tools.
 
----
+--- 
 
 ## Project Overview
 
@@ -80,7 +80,7 @@ linux-server-ops-toolkit/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 chmod +x scripts/*.sh
@@ -90,32 +90,22 @@ chmod +x scripts/*.sh
 ./scripts/log_cleanup.sh 7
 ./scripts/check_process.sh bash
 
----
-
-
-## What I Learned
+--
+### What I Learned
 
 Through this project, I gained hands-on experience with:
 
-Operating and managing a Linux server via SSH
-
-Bash scripting for automation
-
-File and directory management
-
-Process monitoring and system inspection
-
-Creating reliable backups and maintaining logs
-
-Applying Linux fundamentals in a real cloud environment (AWS EC2)
+- Operating and managing a Linux server via SSH  
+- Bash scripting for automation  
+- File and directory management  
+- Process monitoring and system inspection  
+- Creating reliable backups and maintaining logs  
+- Applying Linux fundamentals in a real cloud environment (AWS EC2)
 
 This project helped reinforce core Linux concepts required for Cloud and DevOps roles.
 
+### Cost Management Note
 
----
-
-
-## Cost Management Note:
-
-The AWS EC2 instance used for this project has been shut down after completion to avoid unnecessary costs.
+The AWS EC2 instance used for this project has been shut down after completion to avoid unnecessary costs.  
 All scripts, outputs, and documentation remain available in this repository for review.
+
