@@ -88,6 +88,7 @@ chmod +x scripts/*.sh
 ./scripts/log_cleanup.sh 7
 ./scripts/check_process.sh bash
 
+---
 
 ## What I Learned
 
@@ -106,6 +107,8 @@ Creating reliable backups and maintaining logs
 Applying Linux fundamentals in a real cloud environment (AWS EC2)
 
 This project helped reinforce core Linux concepts required for Cloud and DevOps roles.
+
+---
 
 ## Cost Management Note:
 
