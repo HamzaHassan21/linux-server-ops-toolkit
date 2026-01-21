@@ -46,6 +46,7 @@ Bash
 AWS EC2
 
 SSH
+
 ---
 
 ## 📂 Project Structure
@@ -76,6 +77,7 @@ linux-server-ops-toolkit/
 
 └── README.md
 
+
 ---
 
 ## 🚀 How to Run
@@ -89,6 +91,7 @@ chmod +x scripts/*.sh
 ./scripts/check_process.sh bash
 
 ---
+
 
 ## What I Learned
 
@@ -108,7 +111,9 @@ Applying Linux fundamentals in a real cloud environment (AWS EC2)
 
 This project helped reinforce core Linux concepts required for Cloud and DevOps roles.
 
+
 ---
+
 
 ## Cost Management Note:
 
