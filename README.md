@@ -78,17 +78,6 @@ linux-server-ops-toolkit/
 └── README.md
 
 ---
-
-## How to Run
-
-```bash
-chmod +x scripts/*.sh
-
-./scripts/health_report.sh
-./scripts/backup_folder.sh
-./scripts/log_cleanup.sh 7
-./scripts/check_process.sh bash
-
 ## What I Learned
 
 Through this project, I gained hands-on experience with:
@@ -102,7 +91,21 @@ Through this project, I gained hands-on experience with:
 
 This project helped reinforce core Linux concepts required for Cloud and DevOps roles.
 
+---
+
 ## Cost Management Note
 
 The AWS EC2 instance used for this project has been shut down after completion to avoid unnecessary costs.
 All scripts, outputs, and documentation remain available in this repository for review.
+
+---
+
+## How to Run
+
+```bash
+chmod +x scripts/*.sh
+
+./scripts/health_report.sh
+./scripts/backup_folder.sh
+./scripts/log_cleanup.sh 7
+./scripts/check_process.sh bash
