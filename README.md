@@ -51,13 +51,29 @@ SSH
 ## 📂 Project Structure
 linux-server-ops-toolkit/
 ├── scripts/
+
+
 │ ├── health_report.sh
+
+
 │ ├── backup_folder.sh
+
+
 │ ├── log_cleanup.sh
+
+
 │ └── check_process.sh
+
+
 ├── logs/
+
+
 ├── backups/
+
+
 ├── reports/
+
+
 └── README.md
 
 ---
