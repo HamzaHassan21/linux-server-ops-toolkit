@@ -37,7 +37,7 @@ All scripts were written and executed directly on an AWS EC2 Linux instance usin
   - Useful for basic service health verification
 
 ---
-## 📌 Technologies Used
+## Technologies Used
 
 Linux (Amazon Linux)
 
@@ -51,6 +51,7 @@ SSH
 
 ## 📂 Project Structure
 linux-server-ops-toolkit/
+
 ├── scripts/
 
 
