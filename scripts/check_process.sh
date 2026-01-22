@@ -1,5 +1,4 @@
 #!/bin/bash
-# Use Bash to run this script
 
 # Capture the first command-line argument as the process name
 # Example usage: ./check_process.sh bash
