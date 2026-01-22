@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Use the Bash shell to execute this script
-
 # Define the directory where health reports will be stored
 # $(pwd) ensures the path is absolute (current working directory)
 REPORT_DIR="$(pwd)/reports"
